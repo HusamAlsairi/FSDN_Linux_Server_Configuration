@@ -7,7 +7,7 @@ Udacity Full Stack Web Developer Nanodegree Project 5: Linux Server Configuratio
 * SSH port : ~2200~
 
 ## Complete URL to hosted web application
-~http://ec2-18-216-240-252.us-east-2.compute.amazonaws.com/~
+~http://35.159.0.23.xip.io~
 
 ## Summary of software installed and configuration changes made
 
